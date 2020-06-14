@@ -1,0 +1,2 @@
+# Stopping-Distance
+One key component of determining appropriate speed limits is the amount of distance that is required to stop at a given speed. For example, in residential neighborhoods, when pedestrians are commonly in the roadways, it is important to be able to stop in a very short distance to ensure pedestrian safety. The dataset StoppingDistance.txt compares the distance (in feet) required for a car to stop on a certain rural road against the speed of the car.
